@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Code Camp 2014</string>
+    <string name="action_settings">Settings</string>
+    <string name="CodeCamp">Code camp is the best!!!!</string>
+    <string name="buttonMessage">Hey, this is a button :D</string>
+
+</resources>
